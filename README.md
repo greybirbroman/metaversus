@@ -1,8 +1,9 @@
 
 <h1 align='center'>Web 3.0 | Metaversus</h1>
 
-<svg width="40" height="40" fill="#0055ff" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z"/></svg>
-
+![Next.js](https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=next.js&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=#06b6d4) 
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-white?style=for-the-badge&logo=framer&logoColor=0055ff)
 
 
 <img src='readme_screen.png'/>
@@ -16,7 +17,7 @@
 ### CSS-Фреймворк: [TailwindCSS](https://tailwindcss.com/)
 Tailwind интуитивно понятен и существенно ускоряет разработку.
 ### Motion-фреймворк: [Framer Motion](https://www.framer.com/motion/)
-Качественная и плавная анимация делает сайт интересной и дружелюбной к пользователю, который наверняка захочет полностью изучить сайт. Для различных секций и компонентов используются разные анимации. Все анимации приложения собраны для удобства в отдельной папке.
+Качественная и плавная анимация делает сайт интересным и дружелюбной к пользователю, который наверняка захочет полностью изучить сайт. Для различных секций и компонентов используются разные анимации. Все анимации приложения собраны для удобства в отдельной папке.
 ___
 
 ## Идея: 
